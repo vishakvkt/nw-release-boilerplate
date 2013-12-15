@@ -1,4 +1,4 @@
-node webkit Windows Deploy Boilerplate
+node webkit Windows Deployment Boilerplate
 ==============
 
 **Dependencies**
