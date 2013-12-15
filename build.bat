@@ -1,6 +1,6 @@
 @Echo off
 ECHO. cleaning release..
-if not exist mkdir release
+if not exist release mkdir release
 
 CALl del release\ /s /q
 ECHO. Zipping app to release\app.nw...
