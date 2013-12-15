@@ -4,9 +4,9 @@
   "description": "having fun with node webkit.",
   "version": "0.1",
    "window": {
-    "show": false,
+    "show": true,
     "toolbar": false,
-    "frame": false,
+    "frame": true,
     "position": "center"    
   }
 }
