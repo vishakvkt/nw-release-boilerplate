@@ -1,6 +1,6 @@
 {
   "name": "my awesome app",
-  "main": "index.html",  
+  "main": "main.html",  
   "description": "having fun with node webkit.",
   "version": "0.1",
    "window": {
