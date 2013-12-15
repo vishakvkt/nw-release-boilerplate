@@ -8,7 +8,7 @@ node webkit Windows Deployment Boilerplate
 
 **To Use**
 ----------
-- Download [node-webkit](https://github.com/rogerwang/node-webkit "node-webkit") and copy the files into Tools\node-webkit\
-- Add your awesome node-webkit application to the app folder.
+- Download [node-webkit](https://github.com/rogerwang/node-webkit/archive/master.zip "node-webkit rogerwang") and copy the files into Tools\node-webkit\
+- Hack on main.html to get started creating your awesome application.
 - Run build.bat
 - Your app.exe is generated in the release folder.
