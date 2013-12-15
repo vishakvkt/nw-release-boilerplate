@@ -2,5 +2,11 @@
   "name": "my awesome app",
   "main": "index.html",  
   "description": "having fun with node webkit.",
-  "version": "0.1"
+  "version": "0.1",
+   "window": {
+    "show": false,
+    "toolbar": false,
+    "frame": false,
+    "position": "center"    
+  }
 }
